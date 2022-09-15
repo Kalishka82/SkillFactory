@@ -1,4 +1,8 @@
-from ex_16_8_2 import Rectangle, Square, Circle
+# Выполните задание, взяв за основу полученный код из задания 16.8.1. Добавьте еще один класс —
+# круг (class Circle), который принимает в качестве аргументов свой радиус.
+# Вычислите площадь круга
+
+from ex_16_8_2_CreateClassCircle import Rectangle, Square, Circle
 
 rect_1 = Rectangle(3, 4)
 rect_2 = Rectangle(10, 15)
